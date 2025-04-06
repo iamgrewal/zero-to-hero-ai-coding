@@ -11,7 +11,7 @@ Thank you for considering contributing to **AI Powered AI Vibe**! We’re excite
 2. **Clone the Repository**  
    - Clone your fork to your local machine:  
      ```bash
-     git clone https://github.com/your-username/zero-to-hero-ai-coding.git
+     git clone https://github.com/iamgrewal/zero-to-hero-ai-coding.git
      ```
 
 3. **Create a Branch**  
